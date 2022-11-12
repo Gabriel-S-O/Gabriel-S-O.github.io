@@ -5,7 +5,7 @@ Atualmente:
 - Estudante no [Instituto Federal do Paraná]()
 - Voluntário no desenvolvimento do projeto [Biomais]()
 
-![Foguete](https://cdn-icons-png.flaticon.com/512/619/619175.png)
+![Foguete](https://images.squarespace-cdn.com/content/v1/574faff6f8baf35e5da43485/1553917032687-HIVVXB6YK9YN1HF642A7/toon-rocket.gif)
 
 ## Linguagens de Programação
 
