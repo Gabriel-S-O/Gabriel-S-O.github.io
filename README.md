@@ -20,3 +20,4 @@ Atualmente:
 - Mensageria
 - TDD
 - Rest Api's
+- SGBD's relacionais e não relacionais
